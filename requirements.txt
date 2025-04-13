@@ -1,0 +1,6 @@
+langchain-community
+langchain_chroma
+unstructured
+langchain_huggingface
+transformers
+
